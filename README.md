@@ -2,7 +2,7 @@
 
 ## Link do Deploy
 
-[https://teste-tecnico-brown.vercel.app](https://teste-tecnico-brown.vercel.app)
+[https://teste-tecnico-treetech.vercel.app](https://teste-tecnico-treetech.vercel.app)
 
 ## Iniciando o Projeto
 
@@ -11,7 +11,7 @@
 Primeiro, clone o repositório do projeto para sua máquina local.
 
 ```bash
-git clone https://github.com/brenoharaujo2503/teste-tecnico
+git clone https://github.com/brenoharaujo2503/teste-tecnico-treetech
 ```
 
 ### Passo 2: Navegue para o Diretório do Projeto
